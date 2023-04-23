@@ -15,17 +15,20 @@ a {
   text-decoration: none;
 }
 
+.inner {
+  width: 1100px;
+  margin: 0 auto;
+  position: relative;
+}
+
 /* HEADER */
 header {
   background: #f6f5f0;
   border-bottom: solid #c8c8c8;
 }
 
-header .inner {
-  width: 1100px;
+header > .inner {
   height: 120px;
-  margin: 0 auto;
-  position: relative;
 }
 
 header .logo {
