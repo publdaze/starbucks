@@ -41,6 +41,46 @@ a {
   color: #fff;
 }
 
+.btn.btn--reverse {
+  background-color: #333;
+  color: #fff;
+}
+
+.btn.btn--reverse:hover {
+  background-color: transparent;
+  color: #333;
+}
+
+.btn.btn--brown {
+  color: #592b18;
+  border-color: #592b18;
+}
+
+.btn.btn--brown:hover {
+  color: #fff;
+  background-color: #592b18;
+}
+
+.btn.btn--gold {
+  color: #d9aa8a;
+  border-color: #d9aa8a;
+}
+
+.btn.btn--gold:hover {
+  color: #fff;
+  background-color: #d9aa8a;
+}
+
+.btn.btn--white {
+  color: #fff;
+  border-color: #fff;
+}
+
+.btn.btn--white:hover {
+  color: #333;
+  background-color: #fff;
+}
+
 /* HEADER */
 header {
   position: fixed;
