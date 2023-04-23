@@ -38,6 +38,7 @@ header .logo {
 }
 
 header .sub-menu ul.menu {
+  font-family: Arial, sans-serif;
   display: flex;
 }
 
