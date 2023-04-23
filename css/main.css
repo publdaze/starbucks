@@ -17,14 +17,14 @@ a {
 
 /* HEADER */
 header {
-  background: royalblue;
+  background: #f6f5f0;
+  border-bottom: solid #c8c8c8;
 }
 
 header .inner {
   width: 1100px;
   height: 120px;
   margin: 0 auto;
-  background: orange;
   position: relative;
 }
 
