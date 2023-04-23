@@ -381,6 +381,16 @@ header .badges .badge {
   flex-grow: 1;
 }
 
+.notice .notice-line .inner__left .swiper-container .swiper-slide {
+  height: 62px;
+  display: flex;
+  align-items: center;
+}
+
+.notice .notice-line .inner__left .swiper-container a {
+  color: #fff;
+}
+
 .notice .notice-line .inner__left .notice-line__more {
   width: 62px;
   height: 62px;
