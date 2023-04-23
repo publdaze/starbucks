@@ -11,6 +11,10 @@ img {
   display: block;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* HEADER */
 header {
   background: royalblue;
@@ -31,4 +35,15 @@ header .logo {
   bottom: 0;
   left: 0;
   margin: auto;
+}
+
+header .sub-menu ul.menu a {
+  font-size: 12px;
+  padding: 11px 16px;
+  display: block;
+  color: #656565;
+}
+
+header .sub-menu ul.menu a:hover {
+  color: #000;
 }
