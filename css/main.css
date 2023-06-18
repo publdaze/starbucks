@@ -526,3 +526,9 @@ header .badges .badge {
   background-color: #333;
   color: #fff;
 }
+
+/* REWARDS */
+.rewards .inner {
+  background-image: url("../images/rewards.jpg");
+  height: 241px;
+}
